@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1, 
+h2, 
+h3 {
+  padding: 20px 0; 
+}
+
+p {
+font-family: 'Liu Jian Mao Cao', cursive;
+font-size: 30px; 
+width: 60%; 
+margin: 0 auto; 
+}

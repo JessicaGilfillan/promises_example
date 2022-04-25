@@ -1,0 +1,10 @@
+Once upon a midnight dreary, while I struggled with JQuery,
+
+Sighing softly, weak and weary, troubled by my daunting chore,
+
+While I grappled with weak mapping, suddenly a function wrapping
+
+formed a closure, gently trapping objects that had gone before.
+
+
+
